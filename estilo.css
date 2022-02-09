@@ -5,6 +5,7 @@
 
 #menu{background: #D8D8D8 ;
 	padding: 18px; 
+	text-align: center;
 }
 
 #conteudo{text-align: center;
@@ -16,7 +17,7 @@
 	font-weight: bold;}
 
 body{ 
-	background: #A4A4A4
+	background: #A4A4A4 
 	url('https://i.imgur.com/vBMOtYV.png');
 	font: 16px Arial, Helvetica, sans-serif;
 	background-attachment: fixed;
