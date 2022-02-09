@@ -15,10 +15,11 @@
 #rodape{text-align: center;
 	font-weight: bold;}
 
-body{
+body{ 
 	background: #A4A4A4
 	url('https://i.imgur.com/vBMOtYV.png');
 	font: 16px Arial, Helvetica, sans-serif;
+	background-attachment: fixed;
 }
 
 h1{color: #0B3B39;
